@@ -1,0 +1,7 @@
+D:\Учеба программирование\Основы языка C#\Git\CSharp\Lesson2\Exe\bin\Debug\Exe.exe.config
+D:\Учеба программирование\Основы языка C#\Git\CSharp\Lesson2\Exe\bin\Debug\Exe.exe
+D:\Учеба программирование\Основы языка C#\Git\CSharp\Lesson2\Exe\bin\Debug\Exe.pdb
+D:\Учеба программирование\Основы языка C#\Git\CSharp\Lesson2\Exe\obj\Debug\Exe.csprojAssemblyReference.cache
+D:\Учеба программирование\Основы языка C#\Git\CSharp\Lesson2\Exe\obj\Debug\Exe.csproj.CoreCompileInputs.cache
+D:\Учеба программирование\Основы языка C#\Git\CSharp\Lesson2\Exe\obj\Debug\Exe.exe
+D:\Учеба программирование\Основы языка C#\Git\CSharp\Lesson2\Exe\obj\Debug\Exe.pdb
