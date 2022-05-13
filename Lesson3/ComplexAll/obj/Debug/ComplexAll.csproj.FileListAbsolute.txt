@@ -1,0 +1,6 @@
+D:\Учеба программирование\Основы языка C#\Git\Lesson3\ComplexAll\bin\Debug\ComplexAll.dll
+D:\Учеба программирование\Основы языка C#\Git\Lesson3\ComplexAll\bin\Debug\ComplexAll.pdb
+D:\Учеба программирование\Основы языка C#\Git\Lesson3\ComplexAll\obj\Debug\ComplexAll.csprojAssemblyReference.cache
+D:\Учеба программирование\Основы языка C#\Git\Lesson3\ComplexAll\obj\Debug\ComplexAll.csproj.CoreCompileInputs.cache
+D:\Учеба программирование\Основы языка C#\Git\Lesson3\ComplexAll\obj\Debug\ComplexAll.dll
+D:\Учеба программирование\Основы языка C#\Git\Lesson3\ComplexAll\obj\Debug\ComplexAll.pdb
