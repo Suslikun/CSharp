@@ -1,0 +1,6 @@
+D:\Учеба программирование\Основы языка C#\Git\Lesson3\Com\bin\Debug\Com.dll
+D:\Учеба программирование\Основы языка C#\Git\Lesson3\Com\bin\Debug\Com.pdb
+D:\Учеба программирование\Основы языка C#\Git\Lesson3\Com\obj\Debug\Com.csproj.CoreCompileInputs.cache
+D:\Учеба программирование\Основы языка C#\Git\Lesson3\Com\obj\Debug\Com.dll
+D:\Учеба программирование\Основы языка C#\Git\Lesson3\Com\obj\Debug\Com.pdb
+D:\Учеба программирование\Основы языка C#\Git\Lesson3\Com\obj\Debug\Com.csprojAssemblyReference.cache
